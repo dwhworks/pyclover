@@ -7,7 +7,7 @@ print "Here we go"
 DRIVER_NAME = "com.amazon.redshift.jdbc.Driver"
 DB_URL = "jdbc:redshift://localhost:5434/prod"
 DB_USER = "etluser"
-DB_PASSWORD = "EtlMach1ne"
+DB_PASSWORD = "*******"
 
 #FULL_DB_URL = DB_URL + "?" + 
 
